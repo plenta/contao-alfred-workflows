@@ -3,12 +3,12 @@
 A small collection of [Alfred](https://www.alfredapp.com/) workflows that will speedup your contao documentation search.
 
 
-## Keyword for Contao developer documentation
+## Keyword 'contao' for Contao developer documentation
 
 <img title="Contao developer documentation" alt="Contao developer documentation" src="/screenshots/ContaoDeveloperDocumentation.jpg">
 
 
-## Keyword for Contao user manual
+## Keyword 'cto' for Contao user manual
 
 <img title="Shortkey for Contao user manual" alt="Shortkey for Contao user manual" src="/screenshots/ContaoUserManual.jpg">
 
